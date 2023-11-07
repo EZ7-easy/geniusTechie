@@ -14,7 +14,7 @@
 
 <h3>I have laerned</h3>
 <p>
-	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username={geniusTechie}" />
+	<a href="#" target="_blank"><img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 -----
 
