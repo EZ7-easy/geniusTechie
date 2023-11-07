@@ -9,7 +9,7 @@
 </p>
 
 <h3>🔍 Where to find me</h3>
-<p><a href="https://github.com/geniusTechie" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> <a href="https://instagram.com" target="_blank"><img alt="Instagram" src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<p><a href="https://github.com/geniusTechie" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> <a href="https://www.youtube.com/channel/UCbFqybp90jWqOleAOqq3-ow.com" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
 
 <h3>I have laerned</h3>
