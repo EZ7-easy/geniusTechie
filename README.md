@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" border: 2px solid align="center" src="https://github.com/geniusTechie/geniusTechie/assets/143072064/0e2e35af-4335-45f6-a178-58cd4afcb4f7">
+<img hight="300" width="700" alt="GIF" border="2px solid" align="center" src="https://github.com/geniusTechie/geniusTechie/assets/143072064/0e2e35af-4335-45f6-a178-58cd4afcb4f7">
 </div>
 
 <p align="center">
