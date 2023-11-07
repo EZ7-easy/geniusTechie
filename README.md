@@ -14,7 +14,7 @@
 
 <h3>I have laerned</h3>
 <p>
-<a href="#" target="_blank"><img alt="React.js" src="https://img.shields.io/badge/-ReactJS-lightblue" />
+	https://github-readme-stats.vercel.app/api/top-langs/?username={geniusTechie}
 </p>
 -----
 
