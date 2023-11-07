@@ -14,7 +14,7 @@
 
 <h3>I have laerned</h3>
 <p>
-	https://github-readme-stats.vercel.app/api/top-langs/?username={geniusTechie}
+	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username={geniusTechie}" />
 </p>
 -----
 
