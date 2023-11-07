@@ -1,4 +1,4 @@
-### 👋 Hi there
+### <h1>👋 Hi there</h1>
 ### IF you like my readme <a href="https://github.com/geniusTechie" target="_blank"><img alt="BUY ME A COFFEE" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 
 <div align="center">
